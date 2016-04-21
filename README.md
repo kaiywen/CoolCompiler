@@ -1,1 +1,1 @@
-my cool compiler for Stanford compiler class
+My cool compiler for Stanford compiler class
